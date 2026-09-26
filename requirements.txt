@@ -1,0 +1,7 @@
+# CPU analysis and notebook interface. Not a lockfile for historical GPU runs.
+-r requirements-analysis.txt
+openpyxl>=3.1,<4
+tqdm>=4.66,<5
+jupyterlab>=4,<5
+ipython>=8,<10
+nbformat>=5.9,<6

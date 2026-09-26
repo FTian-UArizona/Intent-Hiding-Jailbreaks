@@ -1,0 +1,24 @@
+{
+  "description": "Original paths relative to the supplied Intent directory; destinations relative to notebooks/.",
+  "notebooks": {
+    "Alphabet_Generation/build_canonical_task_alphabet_150.ipynb": "alphabet/build_task_alphabet.ipynb",
+    "Alphabet_Generation/waterfilling.ipynb": "alphabet/waterfilling.ipynb",
+    "Query_32B Generation/Qwen3-32B Semantic Query Generation.ipynb": "generation/qwen3_32b.ipynb",
+    "Query_14B Generation/Qwen3-14B Semantic Query Generation.ipynb": "generation/qwen3_14b.ipynb",
+    "Query_Gemma Generation/Gemma3-27B-PT Semantic Query Generation_exact14B.ipynb": "optional/gemma3_27b_pt_generation.ipynb",
+    "32B Inference/Qwen1.7B/qwen3_1p7b_all100_corrected_judge.ipynb": "inference/qwen3_32b/qwen3_1p7b.ipynb",
+    "32B Inference/Qwen4B/qwen3_4b_all100_corrected_judge.ipynb": "inference/qwen3_32b/qwen3_4b.ipynb",
+    "32B Inference/Qwen4B Instruct/qwen3_4b_instruct_2507_all100_corrected_judge.ipynb": "inference/qwen3_32b/qwen3_4b_instruct.ipynb",
+    "32B Inference/Qwen8B/qwen3_8b_all100_corrected_judge.ipynb": "inference/qwen3_32b/qwen3_8b.ipynb",
+    "32B Inference/Gemma4B/qwen32_queries__gemma3_4b_pt__corrected_judge_auth_fixed.ipynb": "inference/qwen3_32b/gemma3_4b_pt.ipynb",
+    "32B Inference/Gemma4B Instruct/qwen32_queries__gemma3_4b_it__corrected_judge_final.ipynb": "inference/qwen3_32b/gemma3_4b_it.ipynb",
+    "32B Inference/Mistral7B/mistral_7b_v03_all100_original_setup.ipynb": "inference/qwen3_32b/mistral_7b.ipynb",
+    "32B Inference/Mistral7B/mistral_7b_harmbench_rejudge_only.ipynb": "inference/qwen3_32b/mistral_7b_rejudge.ipynb",
+    "14B Inference/Qwen1.7B/qwen3_1p7b_all100_qwen3_14b_queries_corrected_judge.ipynb": "inference/qwen3_14b/qwen3_1p7b.ipynb",
+    "14B Inference/Qwen4B/qwen3_4b_on_qwen3_14b_queries_corrected_judge.ipynb": "inference/qwen3_14b/qwen3_4b.ipynb",
+    "14B Inference/Qwen4B Instruct/qwen3_4b_instruct_2507_on_qwen3_14b_queries_corrected_judge.ipynb": "inference/qwen3_14b/qwen3_4b_instruct.ipynb",
+    "figures/generate_preliminary_asr_figures.ipynb": "analysis/asr_figures.ipynb",
+    "flow_judge/flow_judge_tfs_all_results.ipynb": "evaluation/flow_judge_target_preservation.ipynb",
+    "Judges/add_gpt56_sol_exact_harmbench_prompt_judge.ipynb": "optional/openai_harmbench_judge.ipynb"
+  }
+}

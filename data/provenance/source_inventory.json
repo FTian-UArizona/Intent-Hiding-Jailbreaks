@@ -1,0 +1,371 @@
+{
+  "description": "Ordinary supplemental uploads compared with original archive; repeated upload suffixes do not identify a new experimental run. Flow-Judge evidence is documented separately.",
+  "file_count": 28,
+  "all_exact_archive_duplicates": true,
+  "files": [
+    {
+      "filename": "Qwen3-14B Semantic Query Generation(2).ipynb",
+      "bytes": 155901,
+      "sha256": "6badee44132b3ad40ca9f39990f627fa4fad78547f98adb8f107fcd09f4a8c1d",
+      "archive_hash_matches": [
+        "Query_14B Generation/Qwen3-14B Semantic Query Generation.ipynb"
+      ],
+      "classification": "duplicate",
+      "role": "main_workflow_source",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "Qwen3-32B Semantic Query Generation(2).ipynb",
+      "bytes": 22000,
+      "sha256": "6ab8ed68bee903f16249cef4fb6e85c4c8539b1e19f1d2022f345a8bff6bf9b7",
+      "archive_hash_matches": [
+        "Query_32B Generation/Qwen3-32B Semantic Query Generation.ipynb"
+      ],
+      "classification": "duplicate",
+      "role": "main_workflow_source",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "Qwen3-32B Semantic Query Generation(3).ipynb",
+      "bytes": 22000,
+      "sha256": "6ab8ed68bee903f16249cef4fb6e85c4c8539b1e19f1d2022f345a8bff6bf9b7",
+      "archive_hash_matches": [
+        "Query_32B Generation/Qwen3-32B Semantic Query Generation.ipynb"
+      ],
+      "classification": "duplicate",
+      "role": "main_workflow_source",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal(1).xlsx",
+      "bytes": 2740046,
+      "sha256": "6bac98fa19ff43c478355d618a1ff7c2bfe2021fe870569bfe588453a5130bf3",
+      "archive_hash_matches": [
+        "Query_14B Generation/query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal.xlsx",
+        "figures/query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal.xlsx",
+        "figures/Old/query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal.xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "query_candidates_k1_to_k5_all100_with_refusal(1).xlsx",
+      "bytes": 3151217,
+      "sha256": "8a708fd68c7898c620f9a02c5d27e8b32f572b90b1d366c541caf4a569e70cfa",
+      "archive_hash_matches": [
+        "Query_32B Generation/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+        "figures/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusal(1).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "query_candidates_k1_to_k5_all100_with_refusal(2).xlsx",
+      "bytes": 3151217,
+      "sha256": "8a708fd68c7898c620f9a02c5d27e8b32f572b90b1d366c541caf4a569e70cfa",
+      "archive_hash_matches": [
+        "Query_32B Generation/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+        "figures/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusal(1).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "query_candidates_k1_to_k5_all100_with_refusals(3).csv",
+      "bytes": 15625795,
+      "sha256": "5971148ab42ee445d8c88d226b6312b72ee2c1918106b8bdfff274322d74c5fd",
+      "archive_hash_matches": [
+        "Query_32B Generation/query_candidates_k1_to_k5_all100_with_refusals.csv",
+        "figures/query_candidates_k1_to_k5_all100_with_refusals.csv",
+        "32B Inference/query_candidates_k1_to_k5_all100_with_refusals.csv",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusals(1).csv",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusals.csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "query_candidates_k1_to_k5_all100_with_refusals(4).csv",
+      "bytes": 15625795,
+      "sha256": "5971148ab42ee445d8c88d226b6312b72ee2c1918106b8bdfff274322d74c5fd",
+      "archive_hash_matches": [
+        "Query_32B Generation/query_candidates_k1_to_k5_all100_with_refusals.csv",
+        "figures/query_candidates_k1_to_k5_all100_with_refusals.csv",
+        "32B Inference/query_candidates_k1_to_k5_all100_with_refusals.csv",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusals(1).csv",
+        "figures/Old/query_candidates_k1_to_k5_all100_with_refusals.csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "qwen32b_refusal_regeneration_manifest(1).csv",
+      "bytes": 1677,
+      "sha256": "914d12cec9903248a748c7beb8756eddc2f9c610a2236d254c14fa688bcd8412",
+      "archive_hash_matches": [
+        "32B Inference/qwen32b_refusal_regeneration_manifest.csv",
+        "figures/Old/qwen32b_refusal_regeneration_manifest.csv"
+      ],
+      "classification": "duplicate",
+      "role": "generation_provenance",
+      "recommendation": "Retain provenance metadata documenting the 13 originally flagged candidate IDs; do not infer successful regeneration from this manifest."
+    },
+    {
+      "filename": "scored_result (Gemma_4B) IT(2).csv",
+      "bytes": 74094359,
+      "sha256": "74dcbe5eddf3365c0496b1406c4f70e349182ce1bd8347b2d89256fac472e396",
+      "archive_hash_matches": [
+        "figures/scored_result (Gemma_4B) IT.csv",
+        "32B Inference/Gemma4B Instruct/scored_results (1).csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Gemma_4B) IT(3).csv",
+      "bytes": 74094359,
+      "sha256": "74dcbe5eddf3365c0496b1406c4f70e349182ce1bd8347b2d89256fac472e396",
+      "archive_hash_matches": [
+        "figures/scored_result (Gemma_4B) IT.csv",
+        "32B Inference/Gemma4B Instruct/scored_results (1).csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Gemma_4B) PT(2).csv",
+      "bytes": 45934279,
+      "sha256": "e64c380d3b5ae16f1f0f46f1520f567a1ff7ca507993298a953d0c6bcb546f90",
+      "archive_hash_matches": [
+        "figures/scored_result (Gemma_4B) PT.csv",
+        "32B Inference/Gemma4B/scored_result (Gemma_4B) PT.csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Gemma_4B) PT(3).csv",
+      "bytes": 45934279,
+      "sha256": "e64c380d3b5ae16f1f0f46f1520f567a1ff7ca507993298a953d0c6bcb546f90",
+      "archive_hash_matches": [
+        "figures/scored_result (Gemma_4B) PT.csv",
+        "32B Inference/Gemma4B/scored_result (Gemma_4B) PT.csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Mistral_7B)(2).xlsx",
+      "bytes": 11524942,
+      "sha256": "edb909fdeed7a27753cd14903ecf80d2806303dfd6a04878177f9b73b8bf14d3",
+      "archive_hash_matches": [
+        "figures/scored_result (Mistral_7B).xlsx",
+        "figures/Old/scored_result (Mistral_7B)(1).xlsx",
+        "figures/Old/scored_result (Mistral_7B)(2).xlsx",
+        "32B Inference/Mistral7B/scored_result (Mistral_7B)_corrected_judge.xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Mistral_7B)(3).xlsx",
+      "bytes": 11524942,
+      "sha256": "edb909fdeed7a27753cd14903ecf80d2806303dfd6a04878177f9b73b8bf14d3",
+      "archive_hash_matches": [
+        "figures/scored_result (Mistral_7B).xlsx",
+        "figures/Old/scored_result (Mistral_7B)(1).xlsx",
+        "figures/Old/scored_result (Mistral_7B)(2).xlsx",
+        "32B Inference/Mistral7B/scored_result (Mistral_7B)_corrected_judge.xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_1p7B) 14B(2).xlsx",
+      "bytes": 12217453,
+      "sha256": "21f04be2b85e3dd41e57200cd9be38586e24949a25af22e9c3b92dd2f136e863",
+      "archive_hash_matches": [
+        "14B Inference/Qwen1.7B/scored_result （Qwen_3_1p7B) 14B.xlsx",
+        "figures/Old/scored_result (Qwen_3_1p7B) 14B.xlsx",
+        "figures/Old/scored_result (Qwen_3_1p7B) 14B(1).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_1p7B)(2).xlsx",
+      "bytes": 11454706,
+      "sha256": "f648a04687711b2ffb092bad975a67cdea7d22e03f9cc2c86d9bd8ee7a69eff0",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_1p7B).xlsx",
+        "figures/Old/scored_result (Qwen_3_1p7B)(1).xlsx",
+        "figures/Old/scored_result (Qwen_3_1p7B).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_1p7B)(3).xlsx",
+      "bytes": 11454706,
+      "sha256": "f648a04687711b2ffb092bad975a67cdea7d22e03f9cc2c86d9bd8ee7a69eff0",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_1p7B).xlsx",
+        "figures/Old/scored_result (Qwen_3_1p7B)(1).xlsx",
+        "figures/Old/scored_result (Qwen_3_1p7B).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_4B) (Instruct) 14B(2).xlsx",
+      "bytes": 11071915,
+      "sha256": "8a6d39a3e2428713f9e28c4b8a0032a2e5ee359e23fcb9b4625c18ed68e83cbd",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_4B) (Instruct) 14B.xlsx",
+        "14B Inference/Qwen4B Instruct/scored_result (Qwen_3_4B) (Instruct) 14B.xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_4B) (Instruct)(2).xlsx",
+      "bytes": 10078821,
+      "sha256": "330772652b7ba2c2d18dfb8e23027bfb28fa5251bd9191b85e62a79ce574e769",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_4B) (Instruct).xlsx",
+        "figures/Old/scored_result (Qwen_3_4B) (Instruct).xlsx",
+        "figures/Old/scored_result (Qwen_3_4B) (Instruct)(1).xlsx",
+        "32B Inference/Qwen4B Instruct/scored_result (Qwen_3_4B) (Instruct).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_4B) (Instruct)(3).xlsx",
+      "bytes": 10078821,
+      "sha256": "330772652b7ba2c2d18dfb8e23027bfb28fa5251bd9191b85e62a79ce574e769",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_4B) (Instruct).xlsx",
+        "figures/Old/scored_result (Qwen_3_4B) (Instruct).xlsx",
+        "figures/Old/scored_result (Qwen_3_4B) (Instruct)(1).xlsx",
+        "32B Inference/Qwen4B Instruct/scored_result (Qwen_3_4B) (Instruct).xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_4B) 14B(2).xlsx",
+      "bytes": 12202162,
+      "sha256": "d9babbdf6b48126134fa686bcc0d7db9ed721b9d3307c8ed1156581ac4d3c030",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_4B) 14B.xlsx",
+        "14B Inference/Qwen4B/scored_result (Qwen_3_4B) 14B.xlsx"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_4B)(2).csv",
+      "bytes": 68071947,
+      "sha256": "bbf8d7cf68042fafb0e829ffb4ad5f9a2081e4658e4a20e0bde2857a03fd6acf",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_4B).csv",
+        "figures/Old/scored_result (Qwen_3_4B)(1).csv",
+        "figures/Old/scored_result (Qwen_3_4B).csv",
+        "32B Inference/Qwen4B/scored_result (Qwen_3_4B).csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_4B)(3).csv",
+      "bytes": 68071947,
+      "sha256": "bbf8d7cf68042fafb0e829ffb4ad5f9a2081e4658e4a20e0bde2857a03fd6acf",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_4B).csv",
+        "figures/Old/scored_result (Qwen_3_4B)(1).csv",
+        "figures/Old/scored_result (Qwen_3_4B).csv",
+        "32B Inference/Qwen4B/scored_result (Qwen_3_4B).csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_8B)(2).csv",
+      "bytes": 67918332,
+      "sha256": "da6d05f96614b2b9c84ad31c7b11a592d442361c77caf567db1a572618f7efb6",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_8B).csv",
+        "figures/Old/scored_result (Qwen_3_8B).csv",
+        "figures/Old/scored_result (Qwen_3_8B)(1).csv",
+        "32B Inference/Qwen8B/scored_result (Qwen_3_8B).csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_result (Qwen_3_8B)(3).csv",
+      "bytes": 67918332,
+      "sha256": "da6d05f96614b2b9c84ad31c7b11a592d442361c77caf567db1a572618f7efb6",
+      "archive_hash_matches": [
+        "figures/scored_result (Qwen_3_8B).csv",
+        "figures/Old/scored_result (Qwen_3_8B).csv",
+        "figures/Old/scored_result (Qwen_3_8B)(1).csv",
+        "32B Inference/Qwen8B/scored_result (Qwen_3_8B).csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    },
+    {
+      "filename": "scored_results.csv",
+      "bytes": 2291525,
+      "sha256": "3adb2583b0a086ee0b1f981371fc563787c27429ce756da59fb40ac33b36a0de",
+      "archive_hash_matches": [
+        "figures/Old/scored_results.csv",
+        "figures/Old/scored_results(1).csv"
+      ],
+      "classification": "duplicate",
+      "role": "exploratory_pilot",
+      "recommendation": "Omit from main paper results; optionally retain separately labeled pilot provenance."
+    },
+    {
+      "filename": "task_alphabet_150_scored.csv",
+      "bytes": 72194,
+      "sha256": "dd1441519529abb0925aa800ed05ce16277f7254de95b0c2611a7eb53238dfed",
+      "archive_hash_matches": [
+        "Alphabet_Generation/task_alphabet_150_scored.csv",
+        "figures/Old/task_alphabet_150_scored(1).csv",
+        "figures/Old/task_alphabet_150_scored.csv"
+      ],
+      "classification": "duplicate",
+      "role": "main_study_data",
+      "recommendation": "Reuse the existing canonical archive copy; do not add the duplicate filename."
+    }
+  ]
+}

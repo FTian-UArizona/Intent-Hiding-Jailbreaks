@@ -1,0 +1,8 @@
+{
+  "source_file": "qwen32b_refusal_regeneration_manifest(1).csv",
+  "source_sha256": "914d12cec9903248a748c7beb8756eddc2f9c610a2236d254c14fa688bcd8412",
+  "n_flagged_candidates": 13,
+  "finding": "All 13 old_generated_query values match generated_query and prompt in the supplied 32B candidate CSV. This manifest records flagged candidates; it does not establish completed replacement or regeneration.",
+  "decision": "Keep original supplied candidate outcomes. Retry-until-success notebook is not part of the canonical workflow.",
+  "published_fields": "Candidate identifiers, bundle metadata, query hashes, and equality flags; no raw query text."
+}

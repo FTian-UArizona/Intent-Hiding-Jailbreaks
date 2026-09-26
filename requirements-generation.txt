@@ -1,0 +1,8 @@
+# Install a CUDA-compatible PyTorch build for your machine separately.
+# The original notebooks require Transformers 4.51 or later in the 4.x series.
+-r requirements.txt
+transformers>=4.51,<5
+datasets>=2.19,<4
+accelerate
+huggingface_hub
+sentencepiece

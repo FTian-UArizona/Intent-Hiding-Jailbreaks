@@ -1,0 +1,139 @@
+{
+  "description": "Paths relative to original Intent folder. Figure-directory results are used except the complete matching Qwen3-1.7B/14B source, identified explicitly. Raw artifacts are excluded from the code archive.",
+  "files": [
+    {
+      "source": "Query_32B Generation/query_candidates_k1_to_k5_all100_with_refusals.csv",
+      "destination": "data/queries/qwen3_32b/query_candidates_k1_to_k5_all100_with_refusals.csv",
+      "size_bytes": 15625795,
+      "sha256": "5971148ab42ee445d8c88d226b6312b72ee2c1918106b8bdfff274322d74c5fd",
+      "uploaded_names": [
+        "query_candidates_k1_to_k5_all100_with_refusals(3).csv",
+        "query_candidates_k1_to_k5_all100_with_refusals(4).csv"
+      ]
+    },
+    {
+      "source": "Query_32B Generation/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+      "destination": "data/queries/qwen3_32b/query_candidates_k1_to_k5_all100_with_refusal.xlsx",
+      "size_bytes": 3151217,
+      "sha256": "8a708fd68c7898c620f9a02c5d27e8b32f572b90b1d366c541caf4a569e70cfa",
+      "uploaded_names": [
+        "query_candidates_k1_to_k5_all100_with_refusal(1).xlsx",
+        "query_candidates_k1_to_k5_all100_with_refusal(2).xlsx"
+      ]
+    },
+    {
+      "source": "Query_14B Generation/query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal.xlsx",
+      "destination": "data/queries/qwen3_14b/query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal.xlsx",
+      "size_bytes": 2740046,
+      "sha256": "6bac98fa19ff43c478355d618a1ff7c2bfe2021fe870569bfe588453a5130bf3",
+      "uploaded_names": [
+        "query_candidates_k1_to_k5_all100_qwen3_14b_with_refusal(1).xlsx"
+      ]
+    },
+    {
+      "source": "Query_Gemma Generation/query_candidates_k1_to_k5_all100_gemma3_27b_pt_with_refusal.xlsx",
+      "destination": "data/queries/gemma3_27b_pt/query_candidates_k1_to_k5_all100_gemma3_27b_pt_with_refusal.xlsx",
+      "size_bytes": 2128788,
+      "sha256": "fcf8fe52d5149e7bdac093ff40bda388a9553a4aa1f77e2215e068f7f202f4b5",
+      "uploaded_names": []
+    },
+    {
+      "source": "figures/scored_result (Mistral_7B).xlsx",
+      "destination": "data/results/qwen3_32b/mistral_7b_instruct_v03.xlsx",
+      "size_bytes": 11524942,
+      "sha256": "edb909fdeed7a27753cd14903ecf80d2806303dfd6a04878177f9b73b8bf14d3",
+      "uploaded_names": [
+        "scored_result (Mistral_7B)(2).xlsx",
+        "scored_result (Mistral_7B)(3).xlsx"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Gemma_4B) PT.csv",
+      "destination": "data/results/qwen3_32b/gemma3_4b_pt.csv",
+      "size_bytes": 45934279,
+      "sha256": "e64c380d3b5ae16f1f0f46f1520f567a1ff7ca507993298a953d0c6bcb546f90",
+      "uploaded_names": [
+        "scored_result (Gemma_4B) PT(2).csv",
+        "scored_result (Gemma_4B) PT(3).csv"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Gemma_4B) IT.csv",
+      "destination": "data/results/qwen3_32b/gemma3_4b_it.csv",
+      "size_bytes": 74094359,
+      "sha256": "74dcbe5eddf3365c0496b1406c4f70e349182ce1bd8347b2d89256fac472e396",
+      "uploaded_names": [
+        "scored_result (Gemma_4B) IT(2).csv",
+        "scored_result (Gemma_4B) IT(3).csv"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Qwen_3_1p7B).xlsx",
+      "destination": "data/results/qwen3_32b/qwen3_1p7b.xlsx",
+      "size_bytes": 11454706,
+      "sha256": "f648a04687711b2ffb092bad975a67cdea7d22e03f9cc2c86d9bd8ee7a69eff0",
+      "uploaded_names": [
+        "scored_result (Qwen_3_1p7B)(2).xlsx",
+        "scored_result (Qwen_3_1p7B)(3).xlsx"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Qwen_3_4B).csv",
+      "destination": "data/results/qwen3_32b/qwen3_4b.csv",
+      "size_bytes": 68071947,
+      "sha256": "bbf8d7cf68042fafb0e829ffb4ad5f9a2081e4658e4a20e0bde2857a03fd6acf",
+      "uploaded_names": [
+        "scored_result (Qwen_3_4B)(2).csv",
+        "scored_result (Qwen_3_4B)(3).csv"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Qwen_3_8B).csv",
+      "destination": "data/results/qwen3_32b/qwen3_8b.csv",
+      "size_bytes": 67918332,
+      "sha256": "da6d05f96614b2b9c84ad31c7b11a592d442361c77caf567db1a572618f7efb6",
+      "uploaded_names": [
+        "scored_result (Qwen_3_8B)(2).csv",
+        "scored_result (Qwen_3_8B)(3).csv"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Qwen_3_4B) (Instruct).xlsx",
+      "destination": "data/results/qwen3_32b/qwen3_4b_instruct_2507.xlsx",
+      "size_bytes": 10078821,
+      "sha256": "330772652b7ba2c2d18dfb8e23027bfb28fa5251bd9191b85e62a79ce574e769",
+      "uploaded_names": [
+        "scored_result (Qwen_3_4B) (Instruct)(2).xlsx",
+        "scored_result (Qwen_3_4B) (Instruct)(3).xlsx"
+      ]
+    },
+    {
+      "source": "14B Inference/Qwen1.7B/scored_result （Qwen_3_1p7B) 14B.xlsx",
+      "destination": "data/results/qwen3_14b/qwen3_1p7b.xlsx",
+      "size_bytes": 12217453,
+      "sha256": "21f04be2b85e3dd41e57200cd9be38586e24949a25af22e9c3b92dd2f136e863",
+      "selection_note": "Complete 10,100-row source. All 38 columns of the 10,099 shared rows exactly match the incomplete figure-directory copy; adds only direct_jbb_099.",
+      "uploaded_names": [
+        "scored_result (Qwen_3_1p7B) 14B(2).xlsx"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Qwen_3_4B) 14B.xlsx",
+      "destination": "data/results/qwen3_14b/qwen3_4b.xlsx",
+      "size_bytes": 12202162,
+      "sha256": "d9babbdf6b48126134fa686bcc0d7db9ed721b9d3307c8ed1156581ac4d3c030",
+      "uploaded_names": [
+        "scored_result (Qwen_3_4B) 14B(2).xlsx"
+      ]
+    },
+    {
+      "source": "figures/scored_result (Qwen_3_4B) (Instruct) 14B.xlsx",
+      "destination": "data/results/qwen3_14b/qwen3_4b_instruct_2507.xlsx",
+      "size_bytes": 11071915,
+      "sha256": "8a6d39a3e2428713f9e28c4b8a0032a2e5ee359e23fcb9b4625c18ed68e83cbd",
+      "uploaded_names": [
+        "scored_result (Qwen_3_4B) (Instruct) 14B(2).xlsx"
+      ]
+    }
+  ]
+}
