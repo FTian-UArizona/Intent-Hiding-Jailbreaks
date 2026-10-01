@@ -1,4 +1,4 @@
-# Compositional Intent-Hiding Jailbreaks
+# Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks
 
 Research code and experiment results for compositional intent-hiding jailbreaks.
 The workflow selects auxiliary tasks, generates composed queries, evaluates
