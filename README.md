@@ -7,6 +7,8 @@ preservation.
 
 **Fengwei Tian and Ravi Tandon · University of Arizona**
 
+IEEE Information Theory Workshop (ITW) 2026 · [arXiv](https://arxiv.org/abs/2610.02302)
+
 ## Reproduce the paper figures
 
 Use Python 3.11 and run from the repository root:
@@ -72,6 +74,17 @@ python -m unittest discover -s tests -v
 GitHub Actions runs these checks. Before committing an executed notebook, clear
 its outputs with `python scripts/clear_outputs.py`. GPU inference and paid API
 calls are not part of CI.
+
+## Citation
+
+```bibtex
+@inproceedings{tian2026intent,
+  title     = {Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks},
+  author    = {Tian, Fengwei and Tandon, Ravi},
+  booktitle = {IEEE Information Theory Workshop (ITW)},
+  year      = {2026}
+}
+```
 
 ## Licensing
 
